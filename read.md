@@ -1,4 +1,4 @@
-AWS CSA USER DATA UPDATE 
+#AWS CSA USER DATA UPDATE 
 
 # awsuserdataeverytimerun
 ## How can I utilize user data to automatically run a script with every restart of my Amazon EC2 Linux instance?
